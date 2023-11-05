@@ -26,6 +26,7 @@ A guy passionate about the world of data!!!
 <p>Adoro aprender e compartilhar o pouco que sei, e esse foi um dos motivos para criar essa conta. Entusiasta de desafios, estou mergulhando no mundo de Analytics Engineer.</p>
 
 ## Tecnologias e Ferramentas
+<p>
 <img loading="lazy" height="40" src="img/linux_tux_icon.svg">
 <img loading="lazy" height="40" src="img/windows_icon.svg">
 <img loading="lazy" height="40" src="img/bash_icon.svg">
@@ -45,6 +46,7 @@ A guy passionate about the world of data!!!
 <img loading="lazy" height="40" src="img/aws_icon.svg">
 <img loading="lazy" height="40" src="img/azure_icon.svg">
 <img loading="lazy" height="40" src="img/google_cloud_icon.svg">
+</p>
 
 ## Preferências
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
@@ -52,7 +54,8 @@ A guy passionate about the world of data!!!
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
 ## Aprendendo
-<p><img loading="lazy" height="40" src="img/apache_spark_icon.svg">
+<p>
+<img loading="lazy" height="40" src="img/apache_spark_icon.svg">
 <img loading="lazy" height="40" src="img/scala_icon.svg">
 <img loading="lazy" height="40" src="img/kubernetes_icon.svg">
 <img loading="lazy" height="40" src="img/kafka_icon.svg">
