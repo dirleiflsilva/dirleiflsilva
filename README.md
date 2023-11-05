@@ -1,5 +1,6 @@
-![Header](img/matrix.svg "matrix")
 <!--
+![Header](img/matrix.svg "matrix")
+
 Um cara apaixonado pelo mundo dos dados!!!
 A guy passionate about the world of data!!!
 -->
@@ -24,6 +25,37 @@ A guy passionate about the world of data!!!
 
 <p>Adoro aprender e compartilhar o pouco que sei, e esse foi um dos motivos para criar essa conta. Entusiasta de desafios, estou mergulhando no mundo de Analytics Engineer.</p>
 
+## Tecnologias e Ferramentas
+<img loading="lazy" height="40" src="img/linux_tux_icon.svg">
+<img loading="lazy" height="40" src="img/windows_icon.svg">
+<img loading="lazy" height="40" src="img/bash_icon.svg">
+<img loading="lazy" height="40" src="img/advpl_icon.svg">
+<img loading="lazy" height="40" src="img/sql_icon.svg">
+<img loading="lazy" height="40" src="img/python_icon.svg">
+<img loading="lazy" height="40" src="img/power_bi_icon.svg">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+<img loading="lazy" height="40" src="img/vs_code_icon.svg">
+<img loading="lazy" height="40" src="img/sql_server_icon.svg">
+<img loading="lazy" height="40" src="img/postgresql_icon.svg">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
+<img loading="lazy" height="40" src="img/mongodb_icon.svg">
+<img loading="lazy" height="40" src="img/hadoop_icon.svg">
+<img loading="lazy" height="40" src="img/docker_icon.svg">
+<img loading="lazy" height="40" src="img/aws_icon.svg">
+<img loading="lazy" height="40" src="img/azure_icon.svg">
+<img loading="lazy" height="40" src="img/google_cloud_icon.svg">
+
+## Preferências
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python Badge">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux Badge">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">
+
+## Aprendendo
+<img loading="lazy" height="40" src="img/apache_spark_icon.svg">
+<img loading="lazy" height="40" src="img/scala_icon.svg">
+<img loading="lazy" height="40" src="img/kubernetes_icon.svg">
+<img loading="lazy" height="40" src="img/kafka_icon.svg">
 
 
 
@@ -41,22 +73,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-- Icons
+https://worldvectorlogo.com/
+https://devicon.dev/
+https://shields.io/
+https://badges.pages.dev/
 
-Pilha de tecnologia
+Language / Tools 
+I am Learning
+Preferences (OS/Editor/Language/)
 
-Linguagens de programação
-Python Shell Script Advpl
+Tech Stack
 
-Nuvem
-AzureAWS
+Cloud
 
-Pilha de Big Data
-Blocos de dados Hadoop Spark Hive Impala Presto Kafka HBase Flume Cloudera
+Big Data Stack
 
-Certificações
-Certificação Microsoft: Engenheiro de IA do Azure Certificação da Microsoft: Engenheiro de IA do Azure Certificação da Microsoft: Fundamentos de IA do Azure Certificação da Microsoft: Fundamentos de Dados do Azure AWS Certified Data Analytics – Especialidade
+Certifications
 
-Vamos nos conectar! Encontre me em...
-Gmail 
-LinkedIn
 -->
