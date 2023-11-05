@@ -27,21 +27,21 @@ A guy passionate about the world of data!!!
 
 ## Tecnologias e Ferramentas
 <p>
+<img loading="lazy" height="40" src="img/power_bi_icon.svg">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
+<img loading="lazy" height="40" src="img/sql_server_icon.svg">
+<img loading="lazy" height="40" src="img/postgresql_icon.svg">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
+<img loading="lazy" height="40" src="img/mongodb_icon.svg">
+<img loading="lazy" height="40" src="img/hadoop_icon.svg">
 <img loading="lazy" height="40" src="img/linux_tux_icon.svg">
 <img loading="lazy" height="40" src="img/windows_icon.svg">
 <img loading="lazy" height="40" src="img/bash_icon.svg">
 <img loading="lazy" height="40" src="img/advpl_icon.svg">
 <img loading="lazy" height="40" src="img/sql_icon.svg">
 <img loading="lazy" height="40" src="img/python_icon.svg">
-<img loading="lazy" height="40" src="img/power_bi_icon.svg">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 <img loading="lazy" height="40" src="img/vs_code_icon.svg">
-<img loading="lazy" height="40" src="img/sql_server_icon.svg">
-<img loading="lazy" height="40" src="img/postgresql_icon.svg">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
-<img loading="lazy" height="40" src="img/mongodb_icon.svg">
-<img loading="lazy" height="40" src="img/hadoop_icon.svg">
 <img loading="lazy" height="40" src="img/docker_icon.svg">
 <img loading="lazy" height="40" src="img/aws_icon.svg">
 <img loading="lazy" height="40" src="img/azure_icon.svg">
