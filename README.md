@@ -38,6 +38,7 @@ A guy passionate about the world of data!!!
 <img loading="lazy" height="40" src="img/windows_icon.svg">
 <img loading="lazy" height="40" src="img/bash_icon.svg">
 <img loading="lazy" height="40" src="img/advpl_icon.svg">
+<img loading="lazy" height="40" src="img/tlpp_icon.svg">
 <img loading="lazy" height="40" src="img/sql_icon.svg">
 <img loading="lazy" height="40" src="img/python_icon.svg">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
