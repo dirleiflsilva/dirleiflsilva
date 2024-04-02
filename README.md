@@ -26,6 +26,7 @@ A guy passionate about the world of data!!!
 <p>Adoro aprender e compartilhar o pouco que sei, e esse foi um dos motivos para criar essa conta. Entusiasta de desafios, estou mergulhando no mundo de Analytics Engineer.</p>
 
 ## Tecnologias e Ferramentas
+
 <p>
 <img loading="lazy" height="40" src="img/power_bi_icon.svg">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
@@ -50,12 +51,16 @@ A guy passionate about the world of data!!!
 </p>
 
 ## Preferências
+
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
 ## Aprendendo
+
 <p>
+<img loading="lazy" height="40" src="img/nodejs_icon.svg">
+<img loading="lazy" height="40" src="img/react_icon.svg">
 <img loading="lazy" height="40" src="img/apache_spark_icon.svg">
 <img loading="lazy" height="40" src="img/scala_icon.svg">
 <img loading="lazy" height="40" src="img/kubernetes_icon.svg">
@@ -82,7 +87,7 @@ https://devicon.dev/
 https://shields.io/
 https://badges.pages.dev/
 
-Language / Tools 
+Language / Tools
 I am Learning
 Preferences (OS/Editor/Language/)
 
