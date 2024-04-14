@@ -39,7 +39,7 @@ A guy passionate about the world of data!!!
 <img loading="lazy" height="40" src="img/windows_icon.svg">
 <img loading="lazy" height="40" src="img/bash_icon.svg">
 <img loading="lazy" height="40" src="img/advpl_icon.svg">
-<img loading="lazy" height="40" src="img/tlpp_icon.jpg">
+<!-- <img loading="lazy" height="40" src="img/tlpp_icon.jpg">-->
 <img loading="lazy" height="40" src="img/sql_icon.svg">
 <img loading="lazy" height="40" src="img/python_icon.svg">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
@@ -52,9 +52,11 @@ A guy passionate about the world of data!!!
 
 ## Preferências
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+
 
 ## Aprendendo
 
