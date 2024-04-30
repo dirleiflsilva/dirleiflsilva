@@ -29,43 +29,44 @@ A guy passionate about the world of data!!!
 
 <p>
 <img loading="lazy" height="40" src="img/power_bi_icon.svg">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
-<img loading="lazy" height="40" src="img/sql_server_icon.svg">
-<img loading="lazy" height="40" src="img/postgresql_icon.svg">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
-<img loading="lazy" height="40" src="img/mongodb_icon.svg">
-<img loading="lazy" height="40" src="img/hadoop_icon.svg">
-<img loading="lazy" height="40" src="img/linux_tux_icon.svg">
-<img loading="lazy" height="40" src="img/windows_icon.svg">
-<img loading="lazy" height="40" src="img/bash_icon.svg">
-<img loading="lazy" height="40" src="img/advpl_icon.svg">
-<!-- <img loading="lazy" height="40" src="img/tlpp_icon.jpg">-->
-<img loading="lazy" height="40" src="img/sql_icon.svg">
+<img loading="lazy" height="40" src="img/jupyter_icon.svg">
 <img loading="lazy" height="40" src="img/python_icon.svg">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+<img loading="lazy" height="40" src="img/sql_icon.svg">
+<img loading="lazy" height="40" src="img/git_icon.svg">
 <img loading="lazy" height="40" src="img/vs_code_icon.svg">
-<img loading="lazy" height="40" src="img/docker_icon.svg">
 <img loading="lazy" height="40" src="img/aws_icon.svg">
 <img loading="lazy" height="40" src="img/azure_icon.svg">
 <img loading="lazy" height="40" src="img/google_cloud_icon.svg">
+<img loading="lazy" height="40" src="img/linux_tux_icon.svg">
+<img loading="lazy" height="40" src="img/bash_icon.svg">
+<img loading="lazy" height="40" src="img/windows_icon.svg">
+<img loading="lazy" height="40" src="img/docker_icon.svg">
+<img loading="lazy" height="40" src="img/sql_server_icon.svg">
+<img loading="lazy" height="40" src="img/postgresql_icon.svg">
+<img loading="lazy" width="80" height="40" src="img/oracle_icon.svg">
+<img loading="lazy" height="40" src="img/mongodb_icon.svg">
+<img loading="lazy" height="40" src="img/hadoop_icon.svg">
+<img loading="lazy" height="40" src="img/advpl_icon.svg">
+<!-- <img loading="lazy" height="40" src="img/tlpp_icon.jpg">-->
 </p>
 
 ## Preferências
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![PowerBI Badge](https://img.shields.io/badge/powerbi-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+<!--![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)-->
 
 
 ## Aprendendo
 
 <p>
-<img loading="lazy" height="40" src="img/nodejs_icon.svg">
-<img loading="lazy" height="40" src="img/react_icon.svg">
+<!--<img loading="lazy" height="40" src="img/nodejs_icon.svg">-->
+<!--<img loading="lazy" height="40" src="img/react_icon.svg">-->
+<img loading="lazy" height="40" src="img/kubernetes_icon.svg">
 <img loading="lazy" height="40" src="img/apache_spark_icon.svg">
 <img loading="lazy" height="40" src="img/scala_icon.svg">
-<img loading="lazy" height="40" src="img/kubernetes_icon.svg">
 <img loading="lazy" height="40" src="img/kafka_icon.svg">
 </p>
 
