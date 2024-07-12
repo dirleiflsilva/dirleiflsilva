@@ -17,7 +17,9 @@ A guy passionate about the world of data!!!
 
 ---
 
-<p>Sou Desenvolvedor de Software focado no <strong><a href="https://www.totvs.com/sistema-de-gestao">ERP Microsiga Protheus</a> da TOTVS</strong>, trabalho com tecnologia desde 1991, então, faz um tempinho!!! E durante esse período me envolvi com os mais diversos tipos de projetos como: suporte à usuários, infraestrutura de redes e servidores, programação e mais recentemente Power BI.</p>
+<p>Sou Desenvolvedor de Software focado no <strong><a href="https://www.totvs.com/sistema-de-gestao">ERP Microsiga Protheus</a> da TOTVS</strong>, ajudando empresas a encontrar caminhos para solucionar seus problemas e alcançar seus objetivos.</p>
+
+<p>Trabalho com tecnologia desde 1991, então, faz um tempinho!!! E durante esse período trabalhei com os mais diversos tipos de projetos como: suporte à usuários, infraestrutura de redes e servidores, programação e mais recentemente Power BI.</p>
 
 <p>Percebi que boa parte do meu tempo de desenvolvedor de soluções, era direcionado para fornecer informações buscando apoiar a gestão de negócios, o que me levou a aprofundar meus conhecimentos sobre Banco de Dados, tanto Relacionais como NoSQL, Business Intelligence, Análise de Dados e Engenharia de Dados.</p>
 
@@ -52,8 +54,8 @@ A guy passionate about the world of data!!!
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![PowerBI Badge](https://img.shields.io/badge/powerbi-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![PowerBI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
 <!--![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)-->
 
 
@@ -69,35 +71,14 @@ A guy passionate about the world of data!!!
 </p>
 
 <!--
-**dirleiflsilva/dirleiflsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 -- Icons
 https://worldvectorlogo.com/
 https://devicon.dev/
 https://shields.io/
 https://badges.pages.dev/
 
-Language / Tools
-I am Learning
-Preferences (OS/Editor/Language/)
-
-Tech Stack
-
-Cloud
-
-Big Data Stack
-
-Certifications
+-- Shields.io Badges
+https://simpleicons.org/
+https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 
 -->
