@@ -21,9 +21,9 @@ A guy passionate about the world of data!!!
 
 <p>Trabalho com tecnologia desde 1991, então, faz um tempinho!!! E durante esse período trabalhei com os mais diversos tipos de projetos como: suporte à usuários, infraestrutura de redes e servidores, programação e mais recentemente Power BI.</p>
 
-<p>Percebi que boa parte do meu tempo de desenvolvedor de soluções, era direcionado para fornecer informações buscando apoiar a gestão de negócios, o que me levou a aprofundar meus conhecimentos sobre Banco de Dados, tanto Relacionais como NoSQL, Business Intelligence, Análise de Dados e Engenharia de Dados.</p>
+<p>Percebi que boa parte do meu tempo de desenvolvedor de soluções, era direcionado para fornecer informações buscando apoiar a gestão de negócios, o que me levou a aprofundar meus conhecimentos sobre Banco de Dados, tanto Relacionais como NoSQL, Business Intelligence, Análise de Dados e Engenharia de Dados. Buscando novos desafios estou mergulhando no mundo de Analytics Engineer.</p>
 
-<p>Adoro aprender e compartilhar o pouco que sei, e esse foi um dos motivos para criar essa conta. Entusiasta de desafios, estou mergulhando no mundo de Analytics Engineer.</p>
+<p>Adoro aprender e compartilhar o pouco que sei, e esse foi um dos motivos para criar essa conta.</p>
 
 ## Tecnologias e Ferramentas
 
