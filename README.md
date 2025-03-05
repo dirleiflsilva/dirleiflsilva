@@ -12,16 +12,18 @@ A guy passionate about the world of data!!!
 <a href="mailto:dirleiflsilva@dfls.eti.br"><img height="30" src="img/icon_email.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dirleiflsilva/"><img height="30" src="img/icon_linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/dirleiflsilva"><img height="30" src="img/icon_twitter.png"></a>&nbsp;&nbsp;
-<a href="https://dirleiflsilva.github.io/perfil"><img height="30" src="img/icon_web.png"></a>&nbsp;&nbsp;
+<a href="https://dfls.eti.br/"><img height="30" src="img/icon_web.png"></a>&nbsp;&nbsp;
 </p>
 
 ---
 
-<p>Sou Desenvolvedor de Software focado no <strong><a href="https://www.totvs.com/sistema-de-gestao">ERP Microsiga Protheus</a> da TOTVS</strong>, ajudando empresas a encontrar caminhos para solucionar seus problemas e alcançar seus objetivos.</p>
+<p>Sou um profissional com vasta experiência em desenvolvimento de software, com foco no <strong><a href="https://www.totvs.com/sistema-de-gestao">ERP Microsiga Protheus</a> da TOTVS</strong>, ajudando empresas a estruturar, otimizar e transformar dados em insights estratégicos.</p>
 
-<p>Trabalho com tecnologia desde 1991, então, faz um tempinho!!! E durante esse período trabalhei com os mais diversos tipos de projetos como: suporte à usuários, infraestrutura de redes e servidores, programação e mais recentemente Power BI.</p>
+<p>Trabalho com tecnologia desde 1991, passando por diversas áreas como infraestrutura, redes, desenvolvimento e, mais recentemente, Business Intelligence e Análise de Dados.</p>
 
-<p>Percebi que boa parte do meu tempo de desenvolvedor de soluções, era direcionado para fornecer informações buscando apoiar a gestão de negócios, o que me levou a aprofundar meus conhecimentos sobre Banco de Dados, tanto Relacionais como NoSQL, Business Intelligence, Análise de Dados e Engenharia de Dados. Buscando novos desafios estou mergulhando no mundo de Analytics Engineer.</p>
+<p>Ao longo da minha trajetória, percebi que grande parte do meu trabalho estava direcionado para a criação de soluções analíticas, fornecendo informações estratégicas para apoiar a gestão de negócios. Isso me levou a aprofundar meus conhecimentos em Banco de Dados Relacionais e NoSQL, Business Intelligence, Power BI e Engenharia de Dados.</p>
+
+<p>🎯 Atualmente, meu foco está na área de Analytics Engineering, onde posso unir minha expertise em SQL, modelagem de dados, transformação e visualização de informações para construir soluções analíticas eficientes e escaláveis.</p>
 
 <p>Adoro aprender e compartilhar o pouco que sei, e esse foi um dos motivos para criar essa conta.</p>
 
@@ -65,8 +67,9 @@ A guy passionate about the world of data!!!
 <!--<img loading="lazy" height="40" src="img/nodejs_icon.svg">-->
 <!--<img loading="lazy" height="40" src="img/react_icon.svg">-->
 <img loading="lazy" height="40" src="img/kubernetes_icon.svg">
+<img loading="lazy" height="40" src="img/fabric_icon.svg">
 <img loading="lazy" height="40" src="img/apache_spark_icon.svg">
-<img loading="lazy" height="40" src="img/scala_icon.svg">
+<!--<img loading="lazy" height="40" src="img/scala_icon.svg">-->
 <img loading="lazy" height="40" src="img/kafka_icon.svg">
 </p>
 
