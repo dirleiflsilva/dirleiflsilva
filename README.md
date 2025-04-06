@@ -60,6 +60,14 @@ A guy passionate about the world of data!!!
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
 <!--![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)-->
 
+## Linguagens mais usadas  
+
+<div align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dirleiflsilva&locale=pt-br&hide_title=true&layout=compact&theme=nord&langs_count=10&hide_border=true&order=2&hide=roff,Batchfile&card_width=800" 
+    alt="Grafico Linguagens"
+  />
+</div>  
 
 ## Aprendendo
 
