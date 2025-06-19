@@ -17,15 +17,15 @@ A guy passionate about the world of data!!!
 
 ---
 
-<p>Sou um profissional com vasta experiência em desenvolvimento de software, com foco no <strong><a href="https://www.totvs.com/sistema-de-gestao">ERP Microsiga Protheus</a> da TOTVS</strong>, ajudando empresas a estruturar, otimizar e transformar dados em insights estratégicos.</p>
+<p>Sou um profissional com vasta experiência em desenvolvimento de software, com foco no <strong><a href="https://www.totvs.com/sistema-de-gestao">ERP Microsiga Protheus</a> da TOTVS</strong>, ajudando empresas a estruturar, otimizar e transformar dados em soluções práticas e eficientes.</p>
 
-<p>Trabalho com tecnologia desde 1991, passando por diversas áreas como infraestrutura, redes, desenvolvimento e, mais recentemente, Business Intelligence e Análise de Dados.</p>
+<p>Trabalho com tecnologia desde 1991, atuando ao longo dos anos em áreas como infraestrutura, redes, desenvolvimento e, mais recentemente, Business Intelligence e Engenharia de Dados.</p>
 
-<p>Ao longo da minha trajetória, percebi que grande parte do meu trabalho estava direcionado para a criação de soluções analíticas, fornecendo informações estratégicas para apoiar a gestão de negócios. Isso me levou a aprofundar meus conhecimentos em Banco de Dados Relacionais e NoSQL, Business Intelligence, Power BI e Engenharia de Dados.</p>
+<p>Ao longo da minha trajetória, percebi que grande parte do meu trabalho envolvia <strong>estruturar dados e entregar informações estratégicas para apoiar a gestão de negócios</strong>. Isso me levou a aprofundar meus conhecimentos em <strong>banco de dados relacionais e NoSQL, Power BI, integração de dados e engenharia de dados</strong>.</p>
 
-<p>🎯 Atualmente, meu foco está na área de Analytics Engineering, onde posso unir minha expertise em SQL, modelagem de dados, transformação e visualização de informações para construir soluções analíticas eficientes e escaláveis.</p>
+<p>🎯 Atualmente, meu foco está em <strong>Engenharia de Dados</strong>,  com interesse crescente em plataformas como <strong>Databricks</strong>, práticas modernas de <strong>DataOps</strong>, e a construção de pipelines escaláveis e automatizados. Busco atuar com tecnologias que conectam dados a decisões reais, com qualidade, governança e performance.</p>
 
-<p>Adoro aprender e compartilhar o pouco que sei, e esse foi um dos motivos para criar essa conta.</p>
+<p>Adoro aprender e compartilhar o que venho construindo, e esse foi um dos motivos para criar essa conta no GitHub.</p>
 
 ## Tecnologias e Ferramentas
 
