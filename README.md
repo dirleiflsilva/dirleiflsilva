@@ -30,34 +30,30 @@ A guy passionate about the world of data!!!
 ## Tecnologias e Ferramentas
 
 <p>
-<img loading="lazy" height="40" src="img/power_bi_icon.svg">
-<img loading="lazy" height="40" src="img/jupyter_icon.svg">
-<img loading="lazy" height="40" src="img/python_icon.svg">
+<img loading="lazy" height="40" src="img/advpl_icon.svg">
 <img loading="lazy" height="40" src="img/sql_icon.svg">
+<img loading="lazy" height="40" src="img/python_icon.svg">
+<img loading="lazy" height="40" src="img/jupyter_icon.svg">
 <img loading="lazy" height="40" src="img/git_icon.svg">
 <img loading="lazy" height="40" src="img/vs_code_icon.svg">
 <img loading="lazy" height="40" src="img/aws_icon.svg">
-<img loading="lazy" height="40" src="img/azure_icon.svg">
 <img loading="lazy" height="40" src="img/google_cloud_icon.svg">
 <img loading="lazy" height="40" src="img/linux_tux_icon.svg">
 <img loading="lazy" height="40" src="img/bash_icon.svg">
 <img loading="lazy" height="40" src="img/windows_icon.svg">
 <img loading="lazy" height="40" src="img/docker_icon.svg">
-<img loading="lazy" height="40" src="img/sql_server_icon.svg">
 <img loading="lazy" height="40" src="img/postgresql_icon.svg">
 <img loading="lazy" width="80" height="40" src="img/oracle_icon.svg">
 <img loading="lazy" height="40" src="img/mongodb_icon.svg">
 <img loading="lazy" height="40" src="img/hadoop_icon.svg">
-<img loading="lazy" height="40" src="img/advpl_icon.svg">
-<!-- <img loading="lazy" height="40" src="img/tlpp_icon.jpg">-->
 </p>
 
 ## Preferências
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![PowerBI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-FCC624?logo=visual-studio-code&logoColor=000&style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
 <!--![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)-->
 
 ## Linguagens mais usadas  
@@ -74,12 +70,27 @@ A guy passionate about the world of data!!!
 <p>
 <!--<img loading="lazy" height="40" src="img/nodejs_icon.svg">-->
 <!--<img loading="lazy" height="40" src="img/react_icon.svg">-->
+<img loading="lazy" height="40" src="img/databricks_icon.svg">
 <img loading="lazy" height="40" src="img/kubernetes_icon.svg">
-<img loading="lazy" height="40" src="img/fabric_icon.svg">
 <img loading="lazy" height="40" src="img/apache_spark_icon.svg">
 <!--<img loading="lazy" height="40" src="img/scala_icon.svg">-->
 <img loading="lazy" height="40" src="img/kafka_icon.svg">
 </p>
+
+## Conquistas Google Cloud
+
+<p>Durante minha transição para Engenharia de Dados, venho me dedicando a laboratórios práticos na plataforma <strong>Google Cloud Skills Boost</strong>, com foco em fundamentos de computação em nuvem, manipulação de dados e machine learning aplicado.</p>
+
+### 🏅 Badges conquistados:
+- **Engineer Data for Predictive Modeling with BigQuery ML**  
+- **Prepare Data for ML APIs on Google Cloud**  
+- **Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud**  
+- **Google Cloud Computing Foundations: Networking & Security in Google Cloud**  
+- **Google Cloud Computing Foundations: Infrastructure in Google Cloud**  
+- **Google Cloud Computing Foundations: Cloud Computing Fundamentals – Locales**  
+- **Google Cloud Essentials**  
+
+🔗 [Acesse meus badges públicos aqui](https://www.cloudskillsboost.google/public_profiles/162923d9-bcd0-49bb-afbf-0a19a5065db5)
 
 <!--
 -- Icons
