@@ -12,50 +12,36 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Engenheiro de Software com mais de 30 anos de experiência em tecnologia, atuando desde 1991 em infraestrutura, redes, desenvolvimento de sistemas e, atualmente, Engenharia de Dados e Arquitetura de Integrações.
+Engenheiro de Software com sólida experiência em ERP Protheus (AdvPL), especializado na construção e operação de plataformas de dados com PostgreSQL.
 
-Minha base sólida está no **ERP Microsiga Protheus (TOTVS)**, onde desenvolvo integrações fiscais, automações empresariais e soluções críticas para ambientes corporativos.
+Atuo com foco em confiabilidade, automação e práticas de engenharia para ambientes de produção, com ênfase em estabilidade, observabilidade e eficiência operacional.
 
-Hoje concentro meus esforços em:
-
-- Desenvolvimento backend em Go  
-- PostgreSQL avançado e modelagem de dados  
-- Engenharia de Dados aplicada a cenários reais  
-- Integrações fiscais e automação de processos  
-- Arquitetura de sistemas e boas práticas de observabilidade  
-
-Meu objetivo é construir soluções técnicas robustas que conectem dados, processos e decisões estratégicas com qualidade, governança e escalabilidade.
+Ao longo da minha trajetória, passei por infraestrutura, redes e desenvolvimento de sistemas, o que hoje me permite atuar com visão ampla na construção de soluções robustas e orientadas a dados.
 
 ---
 
 ## 🏗️ Atuação Técnica
 
-### 🔹 Integrações Fiscais no Protheus
+### 🔹 ERP Protheus & Integrações
 
-Desenvolvimento de rotinas e serviços envolvendo:
-
-- Manifestação do Destinatário  
-- APIs Receita Federal  
+- Integrações fiscais (NFe, SEFAZ, Receita Federal)  
 - Processamento automatizado de XML  
+- APIs e serviços REST  
 - Customizações avançadas em AdvPL  
 
-Atuação em ambientes produtivos com alto volume e criticidade fiscal.
+Atuação em ambientes produtivos com alto volume e criticidade.
 
 ---
 
-<!--
-### 🔹 Estudos e Laboratórios PostgreSQL
+## 🔧 Foco Atual
 
-Ambiente estruturado para aprofundamento técnico em:
-
-- Replicação e Recovery  
-- WAL e tuning de performance  
-- Índices avançados  
-- Modelagem relacional aplicada a dados empresariais  
-- Estratégias de alta disponibilidade  
+- PostgreSQL em ambientes de produção  
+- Engenharia de plataformas de dados  
+- Automação de operações e infraestrutura  
+- Observabilidade e confiabilidade  
+- DataOps e práticas de engenharia 
 
 ---
--->
 
 ## 🧰 Tecnologias e Ferramentas
 
@@ -87,6 +73,7 @@ Ambiente estruturado para aprofundamento técnico em:
 
 ---
 
+<!--
 ## 🔬 Em Evolução Contínua
 
 - Engenharia de Dados moderna  
@@ -115,8 +102,8 @@ Badges conquistados:
 🔗 https://www.cloudskillsboost.google/public_profiles/162923d9-bcd0-49bb-afbf-0a19a5065db5
 
 ---
+-->
 
-<!--
 ## 🌐 Blog Técnico
 
 Compartilho estudos, projetos e aprendizados em:
@@ -124,16 +111,17 @@ Compartilho estudos, projetos e aprendizados em:
 👉 https://dfls.eti.br
 
 ---
--->
 
 ## 📌 Filosofia Profissional
 
 - Código limpo é responsabilidade.  
-- Logs são evidências.  
-- Dados precisam de governança.  
-- Arquitetura precisa escalar.  
-- Evolução técnica é um processo contínuo.
+- Confiabilidade não é opcional  
+- Automação reduz risco operacional  
+- Logs são evidências, não detalhes  
+- Sistemas devem ser observáveis  
+- Evolução técnica é um processo contínuo
 
+---
 <!--
 -- Icons
 https://worldvectorlogo.com/
