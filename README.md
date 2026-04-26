@@ -51,7 +51,7 @@ Atuação em ambientes produtivos com alto volume e criticidade.
 <img loading="lazy" height="40" src="img/sql_icon.svg">
 <img loading="lazy" height="40" src="img/python_icon.svg">
 <img loading="lazy" height="40" src="img/postgresql_icon.svg">
-<img loading="lazy" height="40" src="img/mongodb_icon.svg">
+<!--<img loading="lazy" height="40" src="img/mongodb_icon.svg">-->
 <img loading="lazy" height="40" src="img/docker_icon.svg">
 <img loading="lazy" height="40" src="img/kubernetes_icon.svg">
 <img loading="lazy" height="40" src="img/git_icon.svg">
