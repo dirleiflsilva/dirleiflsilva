@@ -18,6 +18,8 @@ Atuo com foco em confiabilidade, automação e práticas de engenharia para ambi
 
 Ao longo da minha trajetória, passei por infraestrutura, redes e desenvolvimento de sistemas, o que hoje me permite atuar com visão ampla na construção de soluções robustas e orientadas a dados.
 
+Movido por curiosidade técnica e aprendizado contínuo, mantenho uma rotina constante de estudos e experimentação prática em áreas como PostgreSQL, automação, observabilidade e infraestrutura.
+
 ---
 
 ## 🏗️ Atuação Técnica
